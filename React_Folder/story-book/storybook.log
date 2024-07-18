@@ -1,0 +1,7 @@
+npm warn deprecated rimraf@2.6.3: Rimraf versions prior to v4 are no longer supported
+npm warn tar TAR_ENTRY_ERROR ENOSPC: no space left on device, open 'C:\Users\pc\OneDrive\Desktop\zemoso\React Folder\story-book\node_modules\@storybook\builder-webpack5\node_modules\fork-ts-checker-webpack-plugin\lib\typescript\worker\get-dependencies-worker.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOSPC: no space left on device, write
+npm warn tar TAR_ENTRY_ERROR ENOSPC: no space left on device, write
+npm warn tar TAR_ENTRY_ERROR ENOSPC: no space left on device, write
+npm error code ENOSPC
+
